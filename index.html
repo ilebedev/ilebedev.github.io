@@ -2,22 +2,29 @@
 layout: default
 ---
 
-<div class="home">
+<header class="post-header centering">
+  <h1 class="post-title">Ilia Lebedev</h1>
+</header>
 
-  <h1 class="page-heading">Posts</h1>
+<hr class="starred">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<p>
+Oh hello! My name is Ilia, and I do many things at the MIT Computer Science and Artificial Intelligence lab. I build guitars, make various art sporadically, drink coffee over philosophy with friends, and teach anything I can to whomever wants to learn.
+</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<p>
+Here are some things:
+</p>
 
-</div>
+<p>
+My resume is <a href="resume.html">here</a>.
+</p>
+
+<p>
+My disorganized sailing club is <a href="http://boat.csail.mit.edu">here</a>.
+</p>
+
+<p>
+There will surely be more things here soon.
+</p>
