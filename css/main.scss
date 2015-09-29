@@ -10,6 +10,7 @@ $heading-font-family:  'Oswald', Arial, sans-serif;
 $background-color: #FFF;
 $outer-color: #F5F5F5;
 $color: #212121;
+$heading-color: #FF9292;
 
 // Nav
 nav {
@@ -28,7 +29,7 @@ nav h1 {
 // Typography
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
-  color: $color;
+  color: $heading-color;
 }
 
 // Company images
