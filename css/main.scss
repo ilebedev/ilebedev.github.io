@@ -8,41 +8,111 @@ $font-family: 'Lato', Arial, sans-serif;
 $heading-font-family:  'Oswald', Arial, sans-serif;
 
 $background-color: #FFF;
-$outer-color: #F5F5F5;
-$color: #212121;
-$heading-color: #FB5D5D;
+$footer-color: #F5F5F5;
+$mute-color: #212121;
+$loud-color: #FB5D5D;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "_normalize",
+        "_skeleton"
+;
+
+// Typography
+h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  color: $loud-color;
+}
+
+h1 {
+  font-family: $heading-font-family;
+  color: $loud-color;
+}
+
 
 // Nav
 nav {
   margin: 0;
   padding: 0;
+  background-color: $loud-color;
 }
 
-nav h1 {
-  font-size: 2rem;
+nav * {
+  color: $background-color;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 2.5rem;
 }
 
-.navbar {
-  //display: none;
+nav a:link, nav a:visited {
+  color: $background-color;
 }
 
-// Typography
-h1, h2, h3, h4, h5, h6 {
-  font-family: $heading-font-family;
-  color: $heading-color;
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
 }
 
-// Company images
+nav li:before {
+  content: '\002605';
+  padding: 0 10px;
+}
+
+nav li:first-child:before {
+  content: "";
+}
+
+// Header
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+header > * {
+  margin: 0;
+}
+
+hr {
+  text-align: center;
+}
+
+.starred {
+  border-top: 4px double $mute-color;
+}
+
+.starred:after {
+  display: inline;
+  position: relative;
+  top: -15px;
+  content: '\002605';
+  background-color: $background-color;
+  padding: 0 10px;
+  font-size: 18px;
+  color: $mute-color;
+}
+
+// Main page
+main {
+  background-color: $background-color;
+}
+
+// Footer
 .org-img {
   width: 5em;
 }
 
 .icon {
-  fill: $color;
+  fill: $mute-color;
 }
 
-nav, footer {
-  background-color: $outer-color;
+footer, body {
+  background-color: $footer-color;
 }
 
 footer {
@@ -51,12 +121,6 @@ footer {
 
 main {
   padding: 5rem 0;
-}
-
-.centering {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 @media (min-width: 750px) {
@@ -71,28 +135,6 @@ main {
     width: 20rem;
   }
 }
-
-hr {
-  text-align: center;
-  border-top: 4px double $color;
-}
-
-.starred:after {
-  display: inline;
-  position: relative;
-  top: -15px;
-  content: '\002606';
-  background-color: $background-color;
-  padding: 0 10px;
-  font-size: 18px;
-  color: $color;
-}
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "_normalize",
-        "_skeleton"
-;
 
 // Overriding styles
 .side-by-side ul, footer ul {

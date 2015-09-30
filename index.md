@@ -1,30 +1,16 @@
 ---
-layout: default
+layout: page
+title: Ilia Lebedev
+subtitle: and this is my personal and professional site
+permalink: /
 ---
 
-<header class="post-header centering">
-  <h1 class="post-title">Ilia Lebedev</h1>
-</header>
-
-<hr class="starred">
-
-<p>
 Oh hello! My name is Ilia, and I do many things at the MIT Computer Science and Artificial Intelligence lab. I build guitars, make various art sporadically, drink coffee over philosophy with friends, and teach anything I can to whomever wants to learn.
-</p>
 
-
-<p>
 Here are some things:
-</p>
 
-<p>
-My resume is <a href="resume.html">here</a>.
-</p>
+My resume is [here](/resume/).
 
-<p>
-My disorganized sailing club is <a href="http://boat.csail.mit.edu">here</a>.
-</p>
+My disorganized sailing club is [here](http://boat.csail.mit.edu)
 
-<p>
 There will surely be more things here soon.
-</p>
