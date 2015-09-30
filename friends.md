@@ -13,4 +13,6 @@ permalink: /friends/
 
 [Alin Tomescu](http://alinush.org/) is my officemate at MIT, with whom I collaborate on projects such as cryptographic currency, cryptographic identity for secure email, and other projects bridging technology and socioeconomics.
 
+[Ari](http://people.csail.mit.edu/aanders/) is my bold and daring philosophy and coffee friend, who works in machine learning and robotics at the MIT Computer Science and Artificial Intelligence Laboratory.
+
 [Victor Costan](http://www.costan.us/) is a clear expert in all things pertaining to computer systems, systems security, and software engineering, with whom I collaborate on deeply technical projects such as secure computation and privacy attacks.
