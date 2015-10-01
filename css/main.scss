@@ -66,6 +66,10 @@ nav li:first-child:before {
   content: "";
 }
 
+nav li {
+  margin: 0;
+}
+
 // Header
 header {
   display: flex;
