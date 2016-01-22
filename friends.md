@@ -16,3 +16,5 @@ permalink: /friends/
 [Arie Anders](http://people.csail.mit.edu/aanders/) is my bold and daring philosophy and coffee friend, who works in machine learning and robotics at the MIT Computer Science and Artificial Intelligence Laboratory.
 
 [Victor Costan](http://www.costan.us/) is a clear expert in all things pertaining to computer systems, systems security, and software engineering, with whom I collaborate on deeply technical projects such as secure computation and privacy attacks.
+
+[Madeline Liou](http://www.madlime.hackartscience.com/) is Madeline! MMmmmmmmadeline! ![here is a cat](http://cdn3.gurl.com/wp-content/uploads/2014/04/grumpy-cat-party-over.gif)
