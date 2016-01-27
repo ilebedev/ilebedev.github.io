@@ -17,4 +17,4 @@ permalink: /friends/
 
 [Victor Costan](http://www.costan.us/) is a clear expert in all things pertaining to computer systems, systems security, and software engineering, with whom I collaborate on deeply technical projects such as secure computation and privacy attacks.
 
-[Madeline Liou](http://www.madlime.hackartscience.com/) is Madeline! MMmmmmmmadeline! ![here is a cat](http://cdn3.gurl.com/wp-content/uploads/2014/04/grumpy-cat-party-over.gif)
+[Madeline Liou](http://www.madlime.hackartscience.com/) is a PR and publishing student at Emerson College, and is looking for work in the Boston area!
