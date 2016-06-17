@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ilebedev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ilia.hackartscience.com
+  * I am ilebedev (https://keybase.io/ilebedev) on keybase.
+  * I have a public key with fingerprint FBB1 47B8 4A9D B133 B734  37AC 7486 5BBD ACFE 0D53
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fe22df9aa359ef68cefe3e2a0147b5001d9caf05ab1bfb6c2252544ef20692c10a",
+            "fingerprint": "fbb147b84a9db133b73437ac74865bbdacfe0d53",
+            "host": "keybase.io",
+            "key_id": "74865bbdacfe0d53",
+            "kid": "0101fe22df9aa359ef68cefe3e2a0147b5001d9caf05ab1bfb6c2252544ef20692c10a",
+            "uid": "f3f528030171d607050c8a0cc6004e19",
+            "username": "ilebedev"
+        },
+        "service": {
+            "hostname": "ilia.hackartscience.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466186702,
+    "expire_in": 157680000,
+    "prev": "a1a9b382a367f354317a17894e538cdafa9e9b1db2be39c4c2712753944cfad3",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSBVBGMePqaVyxCIqAhPckrLMZnb2euxGUBB0IYnueJqZnT0u6u5x
+d72UngqiqCDMTKM7ptmNyrBAepDsVBRGWWBEPSgE4kvZgwaJYbtSPfXYvAzz8f//
+vv98fE/TEwNpCUXfxvn2OUe6Enq6mysC27WC1zUcsbR9XKiGK2GTFyvVmOOGSwyN
+C3EAAqgzntd0FWMkqkyXFMp0hhiPARRkIgIANZViHYiYQKITifK8yIuCwHQeSCpP
+IcBcHqcbZoTZUdswXQ+rE+KbFQGrGoEIERkJSMZUFhRJJETDVGdAE5FnLLYc3+GF
+I9hh+Ybl1bxHeDLeP/T/OXfFJE5HusgrAAEoQ00CMhABVTCgVAJAYFD1hQ6zTVzG
+PLVRygjTWCUXy+O8aqVBmT9Y/yd/FQbOL8a0BNuuQw1mUpZPrTIPE7Ut16JWqScq
+dt1oyGe4+6K+qYqR8G9cmBim5k3UM1Qy2zEskwtBT0ldw+dDQZKgIsmAz+NYddSw
+WdjwFaIsKcA7fhsvXojDEKsEKTxGkqwjUUBQxlBWVIGJSKEa1rHKVAI1whOGVCpQ
+Xoa8LCJVEKiONX/eDis3LS6EvJg44iEdI2Jit8JmXOzJ4z1JgYS0wNTkKf6mBdJS
+p//Zv9PBaRPF025m1Bpjm17X9WauuR1v5V7EPg/1L2hqK6c7xnpDK2ZPjLxtLqyp
+TplZsDRD2WXvPzV15yYhmNvYHs5pvxoZnLWuNbsz8ChL+XB37OV94VTw0okuZ97X
+oW9PQcvGB+/Xvkqsu3YwVj9wsmJdB/yyJL/n3baGkvZPINa1f2IGCcspVeltPZkt
+fcvG45/B8uGRw0UbUnM334h3BmvjjZVzV5Y9u7c2e3RRy/D1hbAhp//H+zPrb65e
+fCwjp+lsyvP5swsHkk3uZ8dlFXavIlk1D2+N7R41Y4vaZm6pr3tzoVotm5HdJpw/
+VH/uwPf4x6LByMWMvccL7wyPkg99wStbk44m/QJ5GkTF
+=jucO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ilebedev
+
+==================================================================
