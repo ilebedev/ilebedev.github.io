@@ -5,9 +5,9 @@ subtitle: and where they keep their public lives online
 permalink: /friends/
 ---
 
-[Sarah Cheng](http://sarahycheng.com/) is a full stack senior software engineer at [Care.com](https://care.com) with a keen interest in philosophy and interactive storytelling.
+[Sarah Cheng](http://sarahycheng.com/) is a full stack senior software engineer at [betterlesson.com](https://betterlesson.com/) with a keen interest in philosophy and interactive storytelling.
 
-[Nancy Ouyang](http://www.orangenarwhals.com/) is a creative mechanical engineer, software engineer, avid feminist, and boat co-owner. We shall surely one day cross an ocean on our little [boat](http://boat.csail.mit.edu/).
+[Nancy Ouyang](http://www.orangenarwhals.com/) is a creative mechanical engineer, software engineer, avid feminist, and boat co-owner. We shall surely one day cross an ocean on our little [boat](http://boat.hackartscience.com/). She is pursuing a graduate degree in robotics at Harvard University.
 
 [Juliann Ma](http://www.juliannma.com/) is a performance pianist, writer, and artist at Mannes New School. Her imagination has no bounds.
 
@@ -15,6 +15,6 @@ permalink: /friends/
 
 [Arie Anders](http://people.csail.mit.edu/aanders/) is my bold and daring philosophy and coffee friend, who works in machine learning and robotics at the MIT Computer Science and Artificial Intelligence Laboratory.
 
-[Victor Costan](http://www.costan.us/) is a clear expert in all things pertaining to computer systems, systems security, and software engineering, with whom I collaborate on deeply technical projects such as secure computation and privacy attacks.
+[Victor Costan](http://www.costan.us/) is a clear expert in all things pertaining to computer systems, systems security, and software engineering, with whom I collaborate on deeply technical projects such as secure computation and privacy attacks. He now works at Google.
 
-[Madeline Liou](http://www.madlime.hackartscience.com/) is a PR and publishing student at Emerson College, and is looking for work in the Boston area!
+[Madeline Liou](http://madlime.hackartscience.com/) graduated from Emerson College with a graduate degree in publishing, and is looking for work in the Boston area!
